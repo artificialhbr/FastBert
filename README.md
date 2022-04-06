@@ -5,5 +5,5 @@
 使用glue数据集进行实验
 
 ## 训练
-执行下面的代码:
+执行下面的代码: \n
 python run_FastBert.py
